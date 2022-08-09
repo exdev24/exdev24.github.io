@@ -1,45 +1,45 @@
 ﻿{
   "main": {
-    "name":"Giacomo Li",
+    "name":"Nabeel Hussain Babar Hussain",
     "occupation":"Senior Full-Stack Engineer",
     "description":"",
     "image":"profilepic.jpeg",
-    "bio":"I am an experienced web and mobile developer with 11 years of work experience in web/mobile development.",
+    "bio":"I am an experienced web and mobile developer with 8 years of work experience in web/mobile development.",
     "bio1":"As a Top-notch web and mobile developer, I have high skills in modern javascript frameworks such as React, Angular, Vue. Moreover, I love building a production-level iOS/Android apps using React Native. In addition to building high-performance, beautiful frontend, I am also familiar with building the well-structured backend using Node, Django, GraphQL, Firebase.",
     "bio2":"I follow the Steve Jobs quote 'Stay Hungry, Stay Foolish' and that makes me build successful results in my career. 'Stay Hungry' to try out new ideas, technologies and to innovate continuously. 'Staying foolish' to know that there is always scope for improvement and try hard to win at business marketing and engaging better with visitors.",
     "bio3":"My main goal is to make good prospects for the company by working properly, professionally and efficiently. After many years of working under different situations, I have developed the skills required to effectively communicate, plan and manage projects. I maintain a healthy balance between user satisfaction and code quality in every project.",
     "bio4": "I love working with great people, inspiring others, and being inspired.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "giacomotag96@gmail.com",
+    "email": "nabeelhussainabs@gmail.com",
     "phone": "",
     "address":{
-      "street":"76 Meandering Trail Scarborough", 
-      "city":"Toronto",
-      "state":"Ontario, Canada",
-      "zip": "57100"
+      "street":"Dubai", 
+      "city":"United Arab Emirates",
+      "state":"",
+      "zip": ""
     },
     "templateId": "template_0FHEgYVn",
-    "website": "https://giacomo.li.com/",
+    "website": "",
     "resumedownload":"https://drive.google.com/file/d/1JyXkiW-1wgsZ3mqi_r7UJv7NY2pgGpWc/view",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/giacomoli/",
+        "url":"https://www.linkedin.com",
         "className":"fab fa-linkedin"
       },
       {
         "name":"github",
-        "url":"https://github.com/giacomoli",
+        "url":"https://github.com",
         "className":"fab fa-github"
       },
       {
         "name":"skype",
-        "url":"https://join.skype.com/invite/ckOe0qZE5P4V",
+        "url":"https://join.skype.com",
         "className":"fab fa-skype"
       },
       {
         "name":"mail",
-        "url":"mailto: giacomotag96@gmail.com",
+        "url":"mailto: nabeelhussainabs@gmail.com",
         "className":"fa fa-envelope"
       }
     ]
@@ -98,15 +98,6 @@
         "description1": "- Integrated a REST API with a Javascript backend using Node",
         "description2": "- Developed the front-end using mainly Angular.",
         "description3": "Technologies: Angular, JavaScript, Node, Docker, CS Modules, Webpack, WebSocket"
-      },
-      {
-        "company":"Accelifier",
-        "title":"Software Engineer",
-        "years":"Apr 2011 - Nov 2012",
-        "description":"- Design and implementation of new features using jQuery, Javascript, Bootstrap",
-        "description1": "- Develop RESTful web-services based on PHP/Laravel",
-        "description2": "- Release support and bugs fixing, Unit, integration and functional testing",
-        "description3": "Technologies: Javascript, Bootstrap, jQuery, PHP, Laravel"
       }
     ],
     "skills":[
@@ -211,11 +202,11 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Giacomo has an incredible mind for product architecture and business development. It is difficult to find someone who can master an understanding of code, perfect financial models, and pitch an entire company all at the same time. He is also a former professional software engineer with big experience!",
+        "text":"Nabeel has an incredible mind for product architecture and business development. It is difficult to find someone who can master an understanding of code, perfect financial models, and pitch an entire company all at the same time. He is also a former professional software engineer with big experience!",
         "user":"Henri Nicolas - Worked at HDPE Closures Department @ Co-Founder LDOC, Universidad Simón"
       },
       {
-        "text":"Giacomo Li has a great attitude and always professional. Great Team member with a long time journey under successful career",
+        "text":"Nabeel has a great attitude and always professional. Great Team member with a long time journey under successful career",
         "user":"Alexis Yan Li - Product Manager @Accelifier"
       }
     ]

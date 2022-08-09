@@ -148,9 +148,9 @@ class Contact extends Component {
                <div className="widget widget_contact">
                   <h4>Mail: </h4>
                   <h5><a href={`mailto:${email}`} ><span>{email}</span></a></h5>
-					   <h4>Address</h4>
+                  <br />
+					   <h4>Address:</h4>
 					   <p className="address">
-						   {name}<br />
 						   {city}, {state}<br />
 						   <span>{phone}</span>
 					   </p>
