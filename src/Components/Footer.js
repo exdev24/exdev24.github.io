@@ -18,10 +18,10 @@ class Footer extends Component {
               {networks}
            </ul>
             <div style={{ color: 'white' }}>
-              This site is owned and operated by Nabeel
+              This site is owned and operated by Zafran
             </div>
            <ul className="copyright">
-              <li>&copy; Copyright 2020 Nabeel Hussain Babar Hussain</li>
+              <li>&copy; Copyright 2020 Zafran Ulhaq</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
 

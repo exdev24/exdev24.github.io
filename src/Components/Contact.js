@@ -149,11 +149,11 @@ class Contact extends Component {
                   <h4>Mail: </h4>
                   <h5><a href={`mailto:${email}`} ><span>{email}</span></a></h5>
                   <br />
-					   <h4>Address:</h4>
+					   {/* <h4>Address:</h4>
 					   <p className="address">
 						   {city}, {state}<br />
 						   <span>{phone}</span>
-					   </p>
+					   </p> */}
 				   </div>
             </aside>
       </div>
