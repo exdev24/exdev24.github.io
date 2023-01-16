@@ -56,17 +56,17 @@
     ],
     "work":[
       {
-        "company":"Self Employed",
+        "company":"Groove Jones",
         "title":"Senior Javascript Engineer",
-        "years":"2021 - Present",
-        "description": "- Joined the world's first user-centric talent platform & practiced state-of-the-art lean web development, including startups and Fortune 500 companies, development sprints, test-driven development, and other agile development methods.",
-        "description1": "- Have worked on various industries including eLearning Platform, eCommerce Platform, Insurance Marketplace, Real Estate & Construction Platforms",
+        "years":"Dec 2022 - Present",
+        "description": "- Worked as a senior JavaScript developer for building AR/VR apps",
+        "description1": "- Worked on different 3d Modeling projects using WebGL and React.js",
         "description2": "Technologies: React/React Native, Angular, Vue, Node.js, Next.js, Gatsby.js, Django, Sentry, Mocha, Puppeteer, Laravel"
       },
       {
         "company":"Braintrust",
         "title":"Senior Full Stack Developer",
-        "years":"Dec 2019 - Feb 2022",
+        "years":"Dec 2019 - Dec 2022",
         "description":"- Currently Looking For Full-Time Remote Contract",
         "description1":"- Helping start-ups and small to medium business providing full stack web and mobile development solutions using JavaScript/Typescript technologies(Django plus)",
         "description2":"- Place a high priority on customer satisfaction, easy to work with, and comfortable in agile environments.",
